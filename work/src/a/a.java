@@ -100,20 +100,20 @@ public class a {
 	}
 	public static boolean test2(int a)
 	{
-		int b=a;
-		int count=0;
-		for(int i=1;i<b;i++)
-		{
-			if(a%i==0)
-			{
-				count=count+i;
-			}
-		}
+		// int b=a;
+		// int count=0;
+		// for(int i=1;i<b;i++)
+		// {
+		// 	if(a%i==0)
+		// 	{
+		// 		count=count+i;
+		// 	}
+		// }
 		
-		if(a==count)
-			return true;
-		else
-			return false;
+		// if(a==count)
+		// 	return true;
+		// else
+		// 	return false;
 	}
 	
 	
