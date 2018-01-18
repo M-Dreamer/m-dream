@@ -5,47 +5,7 @@ import java.util.Scanner;
 public class a {
 	public static void main(String args[])
 	{
-//		String name;
 		Scanner input=new Scanner(System.in);
-//		name=input.next();
-//		System.out.println(name);
-//		Scanner input =new Scanner(System.in);
-//		System.out.println("please input month:");
-//		while(true)
-//		{
-//		
-//		int i=input.nextInt();
-//		System.out.println("第"+i+"个月有"+f(i)+"只兔子！");
-//		}
-		//分解因式
-//		System.out.print("please input a num:");
-//		int i=input.nextInt();
-//		fenjie(i);
-//		test(i);
-		//求a+aa+aaa.....的和，a是一个数，例如1+11+111.。。。。
-//		System.out.print("input a mask:");
-//		i=input.nextInt();
-//		System.out.print("input num: ");
-//		int j=input.nextInt();
-//		test1(i,j);
-		
-//		//求0~1000以内的完数
-//		long[] arr=new long[1000];
-//		int count=0;
-//		for(int i=1;i<=1000;i++)
-//		{
-//			if(test2(i))
-//			{
-//				arr[count]=i;
-//				count++;
-//			}
-//		}
-//		for(int j=0;j<count;j++)
-//		{
-//			System.out.println(arr[j]+"是完数");
-//		}
-//		球从100米处下落，每次反弹会原高度的一半，求球弹10次后球经过多少米，求第10次弹多高
-		
 		test3();
 	}
 	
